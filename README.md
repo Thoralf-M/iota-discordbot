@@ -30,6 +30,7 @@ balance
 address
 pendingtx
 test
-promote <trunktx> (optional: <branchtx>)```
+promote <trunktx> (optional: <branchtx>)
+```
 
 everything worked
