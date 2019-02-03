@@ -1,0 +1,23 @@
+{
+  "name": "iota-discordbot",
+  "version": "1.0.0",
+  "description": "iotabot",
+  "main": "iotabot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thoralf-M/iota-discordbot.git"
+  },
+  "author": "Thoralf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thoralf-M/iota-discordbot/issues"
+  },
+  "homepage": "https://github.com/Thoralf-M/iota-discordbot#readme",
+  "dependencies": {
+    "@iota/core": "^1.0.0-beta.8",
+    "discord.js": "^11.4.2"
+  }
+}
