@@ -5,7 +5,7 @@ go to the directory `cd iota-discordbot`
 install it `npm i`
 edit the discord token and the iota seed in the config.json file
 
-You can get the discord token from <https://discordapp.com/developers/applications/> 
+You can get the discord token from https://discordapp.com/developers/applications
 
 -create an application there or click at one that you already have
 
@@ -15,6 +15,6 @@ You can get the discord token from <https://discordapp.com/developers/applicatio
 
 start the bot with `node iotabot.js`
 
-let the bot join your server with https://discordapp.com/oauth2/authorize?client_id=`YOUR CLIENT ID`&scope=bot
+let the bot join your server with https://discordapp.com/oauth2/authorize?client_id= `YOURR CLIENT ID HERE`&scope=bot
 
 You can find the client id at https://discordapp.com/developers/applications if you click on your application
