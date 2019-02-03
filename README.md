@@ -13,5 +13,8 @@ You can get the discord token from <https://discordapp.com/developers/applicatio
 
 -click on `Click to Reveal Token` and copy it into the config.json
 
+start the bot with `node iotabot.js`
 
-start it with `node iotabot.js`
+let the bot join your server with https://discordapp.com/oauth2/authorize?client_id=`YOUR CLIENT ID`&scope=bot
+
+You can find the client id at https://discordapp.com/developers/applications if you click on your application
