@@ -22,7 +22,7 @@ You can find the client id at https://discordapp.com/developers/applications if 
 write `-help` in the chat to get a list of the commands
 
 if you see 
-``prefix: - commands:
+```prefix: - commands:
 nodeinfo
 transfer <amount: int> <address> (optional: <tag> <message>)
 ignorependingtx
@@ -30,6 +30,6 @@ balance
 address
 pendingtx
 test
-promote <trunktx> (optional: <branchtx>)``
+promote <trunktx> (optional: <branchtx>)```
 
 everything worked
